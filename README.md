@@ -10,8 +10,8 @@ The latest version of yoda can be downloaded from the [releases](https://github.
 Please note that currently only supports osx.
 
 ## Developers
-Original Repo of @whoisandie is not maintained anymore.
-@MohanL (me) is working on this.
+Original Repo of @whoisandie is not maintained anymore.@MohanL (me) is working on this.
+
 Requires gulp to be installed on your machine.
 Clone the repository, install dependencies and run `gulp`
 
